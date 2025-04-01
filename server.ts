@@ -4,4 +4,3 @@ console.log("adding new code")
 
 console.log("3rd line added")
 
-console.log("5th line")
