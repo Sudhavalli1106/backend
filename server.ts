@@ -6,6 +6,6 @@ console.log("3rd line added")
 
 console.log("4th line");
 
-console.log("5th line")
-console.log("9th line")
+console.log("this line should be from others")
+console.log("this line from local")
 console.log("10th line")
